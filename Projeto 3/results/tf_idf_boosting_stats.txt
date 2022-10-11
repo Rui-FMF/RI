@@ -1,0 +1,351 @@
+Stats for query "greatest rock album" are as follows: 
+
+For top 10: 
+
+Precision -> 0.2
+Recall -> 0.03389830508474576
+F-score -> 0.05797101449275363
+NDCG -> 0.6666666666666667
+
+For top 20: 
+
+Precision -> 0.15
+Recall -> 0.05084745762711865
+F-score -> 0.0759493670886076
+NDCG -> 1.1666666666666667
+
+For top 50: 
+
+Precision -> 0.06
+Recall -> 0.05084745762711865
+F-score -> 0.05504587155963303
+NDCG -> 1.1666666666666667
+
+Stats for query "best live performance" are as follows: 
+
+For top 10: 
+
+Precision -> 0.5
+Recall -> 0.06329113924050633
+F-score -> 0.11235955056179776
+NDCG -> 3.166666666666667
+
+For top 20: 
+
+Precision -> 0.35
+Recall -> 0.08860759493670886
+F-score -> 0.1414141414141414
+NDCG -> 4.166666666666667
+
+For top 50: 
+
+Precision -> 0.14
+Recall -> 0.08860759493670886
+F-score -> 0.10852713178294575
+NDCG -> 4.166666666666667
+
+Stats for query "guitar solo" are as follows: 
+
+For top 10: 
+
+Precision -> 1.0
+Recall -> 0.11494252873563218
+F-score -> 0.20618556701030927
+NDCG -> 6.999999999999999
+
+For top 20: 
+
+Precision -> 0.95
+Recall -> 0.21839080459770116
+F-score -> 0.35514018691588783
+NDCG -> 11.666666666666664
+
+For top 50: 
+
+Precision -> 0.56
+Recall -> 0.3218390804597701
+F-score -> 0.40875912408759124
+NDCG -> 17.0
+
+Stats for query "christmas songs" are as follows: 
+
+For top 10: 
+
+Precision -> 0.1
+Recall -> 0.01639344262295082
+F-score -> 0.028169014084507043
+NDCG -> 0.33333333333333337
+
+For top 20: 
+
+Precision -> 0.15
+Recall -> 0.04918032786885246
+F-score -> 0.07407407407407407
+NDCG -> 1.8333333333333335
+
+For top 50: 
+
+Precision -> 0.1
+Recall -> 0.08196721311475409
+F-score -> 0.09009009009009009
+NDCG -> 3.8333333333333335
+
+Stats for query "elevator music" are as follows: 
+
+For top 10: 
+
+Precision -> 0.9
+Recall -> 0.12857142857142856
+F-score -> 0.225
+NDCG -> 8.0
+
+For top 20: 
+
+Precision -> 0.8
+Recall -> 0.22857142857142856
+F-score -> 0.3555555555555555
+NDCG -> 10.66666666666667
+
+For top 50: 
+
+Precision -> 0.34
+Recall -> 0.24285714285714285
+F-score -> 0.2833333333333333
+NDCG -> 11.16666666666667
+
+Stats for query "balkan music" are as follows: 
+
+For top 10: 
+
+Precision -> 0.7
+Recall -> 0.09333333333333334
+F-score -> 0.16470588235294115
+NDCG -> 4.999999999999999
+
+For top 20: 
+
+Precision -> 0.75
+Recall -> 0.2
+F-score -> 0.31578947368421056
+NDCG -> 13.0
+
+For top 50: 
+
+Precision -> 0.68
+Recall -> 0.4533333333333333
+F-score -> 0.544
+NDCG -> 42.0
+
+Stats for query "worst buy" are as follows: 
+
+For top 10: 
+
+Precision -> 1.0
+Recall -> 0.14705882352941177
+F-score -> 0.25641025641025644
+NDCG -> 9.166666666666668
+
+For top 20: 
+
+Precision -> 1.0
+Recall -> 0.29411764705882354
+F-score -> 0.45454545454545453
+NDCG -> 18.166666666666668
+
+For top 50: 
+
+Precision -> 0.76
+Recall -> 0.5588235294117647
+F-score -> 0.6440677966101696
+NDCG -> 37.16666666666667
+
+Stats for query "70's country music" are as follows: 
+
+For top 10: 
+
+Precision -> 0.5
+Recall -> 0.0684931506849315
+F-score -> 0.12048192771084336
+NDCG -> 1.9999999999999998
+
+For top 20: 
+
+Precision -> 0.5
+Recall -> 0.136986301369863
+F-score -> 0.21505376344086022
+NDCG -> 4.5
+
+For top 50: 
+
+Precision -> 0.2
+Recall -> 0.136986301369863
+F-score -> 0.16260162601626016
+NDCG -> 4.5
+
+Stats for query "one hit wonder" are as follows: 
+
+For top 10: 
+
+Precision -> 0.1
+Recall -> 0.012658227848101266
+F-score -> 0.02247191011235955
+NDCG -> 1.0
+
+For top 20: 
+
+Precision -> 0.05
+Recall -> 0.012658227848101266
+F-score -> 0.020202020202020204
+NDCG -> 1.0
+
+For top 50: 
+
+Precision -> 0.02
+Recall -> 0.012658227848101266
+F-score -> 0.015503875968992248
+NDCG -> 1.0
+
+Stats for query "most underrated" are as follows: 
+
+For top 10: 
+
+Precision -> 1.0
+Recall -> 0.11627906976744186
+F-score -> 0.20833333333333334
+NDCG -> 8.166666666666668
+
+For top 20: 
+
+Precision -> 0.95
+Recall -> 0.22093023255813954
+F-score -> 0.3584905660377359
+NDCG -> 18.666666666666668
+
+For top 50: 
+
+Precision -> 0.88
+Recall -> 0.5116279069767442
+F-score -> 0.6470588235294118
+NDCG -> 44.66666666666667
+
+Stats for query "several instruments" are as follows: 
+
+For top 10: 
+
+Precision -> 0.6
+Recall -> 0.1111111111111111
+F-score -> 0.18750000000000003
+NDCG -> 3.0
+
+For top 20: 
+
+Precision -> 0.35
+Recall -> 0.12962962962962962
+F-score -> 0.18918918918918917
+NDCG -> 3.5
+
+For top 50: 
+
+Precision -> 0.14
+Recall -> 0.12962962962962962
+F-score -> 0.1346153846153846
+NDCG -> 3.5
+
+Stats for query "abbey road studios" are as follows: 
+
+For top 10: 
+
+Precision -> 0.9
+Recall -> 0.13636363636363635
+F-score -> 0.23684210526315788
+NDCG -> 4.999999999999999
+
+For top 20: 
+
+Precision -> 0.6
+Recall -> 0.18181818181818182
+F-score -> 0.27906976744186046
+NDCG -> 6.499999999999999
+
+For top 50: 
+
+Precision -> 0.24
+Recall -> 0.18181818181818182
+F-score -> 0.20689655172413793
+NDCG -> 6.499999999999999
+
+Stats for query "easy listening" are as follows: 
+
+For top 10: 
+
+Precision -> 0.6
+Recall -> 0.06741573033707865
+F-score -> 0.1212121212121212
+NDCG -> 4.333333333333334
+
+For top 20: 
+
+Precision -> 0.75
+Recall -> 0.16853932584269662
+F-score -> 0.27522935779816515
+NDCG -> 11.333333333333334
+
+For top 50: 
+
+Precision -> 0.6
+Recall -> 0.33707865168539325
+F-score -> 0.4316546762589928
+NDCG -> 24.333333333333336
+
+Stats for query "great cover art" are as follows: 
+
+For top 10: 
+
+Precision -> 0.9
+Recall -> 0.12
+F-score -> 0.21176470588235294
+NDCG -> 3.666666666666667
+
+For top 20: 
+
+Precision -> 0.45
+Recall -> 0.12
+F-score -> 0.1894736842105263
+NDCG -> 3.666666666666667
+
+For top 50: 
+
+Precision -> 0.2
+Recall -> 0.13333333333333333
+F-score -> 0.16
+NDCG -> 4.666666666666667
+
+Stats for query "house party songs" are as follows: 
+
+For top 10: 
+
+Precision -> 1.0
+Recall -> 0.12195121951219512
+F-score -> 0.21739130434782605
+NDCG -> 8.333333333333332
+
+For top 20: 
+
+Precision -> 0.95
+Recall -> 0.23170731707317074
+F-score -> 0.37254901960784315
+NDCG -> 13.833333333333332
+
+For top 50: 
+
+Precision -> 0.44
+Recall -> 0.2682926829268293
+F-score -> 0.33333333333333337
+NDCG -> 15.833333333333332
+
+Average stats: 
+
+Query throughput -> 5.5492016792297365
+Precision -> 0.5357777777777778
+
+
